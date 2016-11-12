@@ -1,0 +1,4 @@
+[04-Aug-2016 02:52:35 America/Denver] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3
+[04-Aug-2016 02:52:36 America/Denver] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[09-Aug-2016 01:28:32 America/Denver] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/manage/activate-admin.php on line 3
+[09-Aug-2016 01:28:51 America/Denver] PHP Fatal error:  Call to undefined function wp_nonce_url() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/manage/confirm-admin.php on line 3

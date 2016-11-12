@@ -1,0 +1,4 @@
+[04-Aug-2016 02:52:24 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php on line 66
+[04-Aug-2016 02:52:27 America/Denver] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/site-icon/upload-site-icon.php on line 14
+[09-Aug-2016 01:18:53 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/site-icon/jetpack-site-icon.php on line 66
+[09-Aug-2016 01:18:56 America/Denver] PHP Fatal error:  Call to undefined function wp_verify_nonce() in /home3/eugenial/public_html/blog/wp-content/plugins/jetpack/modules/site-icon/upload-site-icon.php on line 14
